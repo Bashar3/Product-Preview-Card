@@ -31,7 +31,6 @@ body {
   align-items: center;
   min-height: 100vh;
   background-color: var(--Cream);
-  padding: 20px 10px 60px;
   position: relative;
   font-size: 14px;
 }
@@ -192,6 +191,9 @@ body {
 
 /* Responsive */
 @media (max-width: 767px) {
+  body {
+      padding: 20px 10px 60px;
+  }
   .card {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;

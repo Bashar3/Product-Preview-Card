@@ -73,6 +73,7 @@ body {
   font-family: Fraunces, serif;
   margin: 10px 0 25px;
   color: var(--Very-dark-blue);
+  font-size: 31px;
 }
 
 .card .col-2 p {

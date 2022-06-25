@@ -73,6 +73,7 @@ body {
   margin: 10px 0 25px;
   color: var(--Very-dark-blue);
   font-size: 37px;
+  line-height: 1;
 }
 
 .card .col-2 p {
